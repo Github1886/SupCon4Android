@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<xingmu type_id="opencv-haar-classifier">
+  <size>
+    40 70</size>
+  <stages>
+    <_>
+      <!-- stage 0 -->
+      <trees>
+        <_>
+          <!-- tree 0 -->
+          <_>
+            <!-- root node -->
+            <feature>
+              <rects>
+                <_>
+                  13 30 4 10 -1.</_>
+                <_>
+                  13 30 2 5 2.</_>
+                <_>
+                  15 35 2 5 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>5.0161690451204777e-003</threshold>
+            <left_val>-1.</left_val>
+            <right_val>1.0000040531158447e+000</right_val></_></_></trees>
+      <stage_threshold>1.0000040531158447e+000</stage_threshold>
+      <parent>-1</parent>
+      <next>-1</next></_>
+    <_>
+      <!-- stage 1 -->
+      <trees>
+        <_>
+          <!-- tree 0 -->
+          <_>
+            <!-- root node -->
+            <feature>
+              <rects>
+                <_>
+                  0 0 4 25 -1.</_>
+                <_>
+                  2 0 2 25 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-2.2000979632139206e-002</threshold>
+            <left_val>1.</left_val>
+            <right_val>-9.9999117851257324e-001</right_val></_></_></trees>
+      <stage_threshold>1.</stage_threshold>
+      <parent>0</parent>
+      <next>-1</next></_></stages></xingmu>
+</opencv_storage>

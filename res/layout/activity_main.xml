@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    xmlns:tools="http://schemas.android.com/tools"  
+    android:orientation="vertical"  
+    android:layout_width="match_parent"  
+    android:layout_height="match_parent" >  
+      
+    <Button   
+        android:id="@+id/start"  
+        android:layout_width="fill_parent"  
+        android:layout_height="wrap_content"  
+        android:text="@string/str_proc"/>  
+      
+    <ImageView  
+        android:id="@+id/photo"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"  
+        android:contentDescription="@string/str_proc"/>
+
+     <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="显示的详细内容" />
+        
+     <ImageView  
+        android:id="@+id/template"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"  
+        android:contentDescription="@string/str_proc"/> 
+  
+</LinearLayout>

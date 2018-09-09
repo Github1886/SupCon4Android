@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<jiaduobao type_id="opencv-haar-classifier">
+  <size>
+    40 70</size>
+  <stages>
+    <_>
+      <!-- stage 0 -->
+      <trees>
+        <_>
+          <!-- tree 0 -->
+          <_>
+            <!-- root node -->
+            <feature>
+              <rects>
+                <_>
+                  0 0 4 9 -1.</_>
+                <_>
+                  2 0 2 9 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-1.3751240447163582e-002</threshold>
+            <left_val>1.</left_val>
+            <right_val>-9.9999237060546875e-001</right_val></_></_></trees>
+      <stage_threshold>1.</stage_threshold>
+      <parent>-1</parent>
+      <next>-1</next></_></stages></jiaduobao>
+</opencv_storage>
